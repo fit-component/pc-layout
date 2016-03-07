@@ -19,4 +19,7 @@ export default class Row extends React.Component {
     }
 }
 
-Row.defaultProps = {}
+Row.defaultProps = {
+    // @desc 类型
+    type: ''
+}
