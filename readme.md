@@ -3,5 +3,5 @@
 ---
 
 ````jsx
-npm install fit-layout /* or */ fis3 install fit-layout
+npm install fit-layout
 ````
