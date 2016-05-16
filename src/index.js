@@ -1,4 +1,3 @@
-import 'fit-style'
 import Row from './row'
 import Col from './col'
 
