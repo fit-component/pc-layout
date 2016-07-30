@@ -1,7 +1,7 @@
-import React from 'react'
-import { Row, Col } from 'fit-layout'
+import * as React from 'react'
+import {Row, Col} from '../../src'
 
-const DemoBox = React.createClass({
+const DemoBox = React.createClass <any,any>({
     render() {
         let style = {
             height: this.props.value
@@ -12,7 +12,7 @@ const DemoBox = React.createClass({
     }
 })
 
-export default class Demo extends React.Component {
+export default class Demo extends React.Component<any, any> {
     render() {
         return (
             <div>
