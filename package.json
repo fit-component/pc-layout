@@ -1,6 +1,6 @@
 {
   "name": "fit-layout",
-  "version": "3.0.17",
+  "version": "3.0.18",
   "description": "布局组件",
   "main": "lib/index.js",
   "scripts": {
