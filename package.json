@@ -1,6 +1,6 @@
 {
   "name": "fit-layout",
-  "version": "3.0.18",
+  "version": "3.0.30",
   "description": "布局组件",
   "main": "lib/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "dependencies": {
     "react": "^0.14.0 || ^15.0.0",
     "classnames": "^2.2.3",
-    "fit-transmit-transparently": "^3.1.26"
+    "fit-transmit-transparently": "^3.1.38"
   },
   "typings": "lib/index.d.ts"
 }
